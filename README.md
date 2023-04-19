@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Backend Developer with expertise in c# and ASP.Net Core</h1>
+<h1 align="center">Hi 👋, I'm Backend Developer</h1>
 
 - 💬 Ask me about **EntityFramework Core,C# and write Clean Code**
 
