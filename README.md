@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jamila Ismayilzada</h1>
+<p><img align="left" src="https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,I+am+Jamila Ismayilzada.;I'm+backend+developer+and+instructor." /> </p>
 
 - 💬 Ask me about **EntityFramework Core,C# and write Clean Code**
 
