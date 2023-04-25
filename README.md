@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello%2C+I+am+Jamila+Ismayilzada.%3B+I%27m+backend+developer+and+instructor." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello%2C+I+am+Jamila+Ismayilzada.%3B+I%27m+Backend+Developer+and+Instructor." />
 </p>
 <hr style="border-top: 1px solid gray; width: 50%;"> 
 - 💬 Ask me about **EntityFramework Core,C# and write Clean Code**
