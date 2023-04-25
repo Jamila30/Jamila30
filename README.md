@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jamila Ismayilzada</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello%2C+I+am+Jamila+Ismayilzada.%3B+I%27m+backend+developer+and+instructor.)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello%2C+I+am+Jamila+Ismayilzada.%3B+I%27m+backend+developer+and+instructor." />
+</p>
+
 - 💬 Ask me about **EntityFramework Core,C# and write Clean Code**
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
