@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://myreadme-stats.vercel.app/api?username=jamila30&title_color=FA8C00&icon_color=CC5160&text_color=B95C50&bg_color=AAD6A0&show_icons=true&locale=en" alt="jamila30" /></p>
 
-![snake gif](https://github.com/Jamila30/Jamila30/blob/output/github-contribution-grid-snake.gif)
+
