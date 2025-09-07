@@ -113,15 +113,15 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamila30&show_icons=true&theme=gruvbox" width="48%" style="margin-right:4%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamila30&layout=compact&theme=gruvbox" width="48%" />
-</p>
+
+![Jamila's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamila30&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamila30&theme=gruvbox)
+
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamila30&theme=gruvbox&row=1&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jamila30&theme=gruvbox&row=1&column=4&margin-w=15" />
 </p>
 
 
