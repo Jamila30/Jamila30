@@ -112,11 +112,17 @@
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamila30&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamila30&theme=gruvbox" />
-</p>
 
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jamila30&show_icons=true&theme=gruvbox" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamila30&theme=gruvbox" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
