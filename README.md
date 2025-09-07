@@ -114,8 +114,8 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 
-![Jamila's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamila30&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamila30&theme=gruvbox)
+![Jamila's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamila30&show_icons=true&theme=gruvbox&row=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamila30&theme=gruvbox&row=1)
 
 
 <h3 align="center">🏆 GitHub Trophies</h3>
