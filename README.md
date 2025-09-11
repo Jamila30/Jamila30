@@ -2,22 +2,20 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello%2C+I+am+Jamila+Ismayilzada.%3B+I%27m+Backend+Developer" />
 </p>
-<hr style="border-top: 1px solid gray; width: 50%;"> 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <p align="center" style="font-style: italic; color: #2BF723; font-size: 20px;">
   “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 </p>
-<hr style="border-top: 1px solid gray; width: 50%;">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 💬 Ask me about **C# and Clean Code**
   
 
 - 📫 How to reach me **cemile.ismayilzade02@gmail.com**
 
-<hr style="border-top: 1px solid gray; width: 50%;">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +23,9 @@
 <a href="https://medium.com/@cemile.ismayilzade02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="smylzd_cemile" height="30" width="40" /></a>
 </p>
 
-<hr style="border-top: 1px solid gray; width: 50%;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 
 <img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
@@ -111,18 +111,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamila30&repo=Cache-Service&theme=gruvbox" alt="Repo 2" width="30%" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jamila30&show_icons=true&theme=gruvbox" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamila30&theme=gruvbox" />
-    </td>
-  </tr>
-</table>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
@@ -130,4 +118,22 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jamila30&theme=gruvbox&row=1&column=4&margin-w=15" />
 </p>
 
+<!-- Github Stats -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=jamila30&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamila30&theme=nightowl&hide_border=false" alt="jamila30 streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jamila30&theme=nightowl&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
+<br>
 
