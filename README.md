@@ -127,7 +127,6 @@
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jamila30&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamila30&theme=nightowl&hide_border=false" alt="jamila30 streak" />
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jamila30&theme=nightowl&hide_border=false&langs_count=10"/>
