@@ -105,7 +105,7 @@
 
 
 
-<h3 align="center">📌 My Top Projects</h3>
+<!-- <h3 align="center">📌 My Top Projects</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamila30&repo=Data-Structures-And-Algorithms&theme=gruvbox" alt="Repo 1" width="30%" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jamila30&repo=Cache-Service&theme=gruvbox" alt="Repo 2" width="30%" />
@@ -116,10 +116,10 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jamila30&theme=gruvbox&row=1&column=4&margin-w=15" />
-</p>
+</p> -->
 
 <!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p align="center">
@@ -134,5 +134,5 @@
 </tr>
 </table>
 </p>
-<br>
+<br> -->
 
